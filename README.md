@@ -3,7 +3,8 @@
  
   <h5>Curso rápido Spring React</h5>
   <ul>
-    <li>As aulas teve criação de projetos backend e frontend.</li>
+    <li>O foco do curso é criar um streaming de filme para usuário avaliar, utilizando o email.</li>
+    <li>As aulas teve criação de projetos backend e frontend, o foco do curso é criar um streaming de filme para usuário avalizar, utilizando o email.</li>
     <li>Ferramentas: </li>
     <ol>
       <li>React</li>
@@ -17,8 +18,6 @@
       <li>Netlify</li>
     </ol>
   </ul>
-    
-<!--   https://dsmovieosmar.netlify.app/ -->
 </div>
 
 ## Verificar o projeto
@@ -26,3 +25,11 @@
   <h5>Clica no link Netlify será encaminhado para meu projeto em visual: </h5>
   <a href="https://dsmovieosmar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
 </div>
+
+## Estudo
+<div>
+  <h5>Aprendizado foi pelo canal DevSuperior (youtuber), confere no link: </h5>
+  <a href="https://www.youtube.com/c/DevSuperior/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+
