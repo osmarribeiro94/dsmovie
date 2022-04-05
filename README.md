@@ -28,7 +28,7 @@
 
 ## Estudo
 <div>
-  <h5>Aprendizado foi pelo canal DevSuperior (youtuber), confere no link: </h5>
+  <h5>Aprendizado foi pelo canal DevSuperior (youtuber) se encontra nesse link: </h5>
   <a href="https://www.youtube.com/c/DevSuperior/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
